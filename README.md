@@ -4,6 +4,8 @@ __Notice__: At present, `bot7` requires use of updated Torch7 features not yet m
 
 <a name="bot7.intro.dok"/>
 # bot7 #
+
+[![Join the chat at https://gitter.im/j-wilson/bot7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/j-wilson/bot7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 __bot7__ is a framework for Bayesian Optimization implemented in Torch7. For it's companion package on Gaussian Processes, please refer to [gpTorch7](https://github.com/j-wilson/gpTorch7). This package is currently still in an alpha-build stage; so, please feel free to pass along suggestions and/or feedback.
 <a name="bot7.content.dok"/>
 ## Package Content ##
